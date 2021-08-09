@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter application.
+A new Flutter application. Inspired by https://www.youtube.com/watch?v=uL8l0KbeEXY&list=PLw6Y5u47CYq6mQ0MUuwJsCyB3-ZEPIcSt
 
 ## Getting Started
 
